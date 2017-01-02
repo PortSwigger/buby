@@ -1,0 +1,10 @@
+Uuid: bd453f3f4b364b9fba4e40e1eb6e8fb0
+ExtensionType: 3
+Name: Buby
+ScreenVersion: 1.6.1
+SerialVersion: 2
+MinPlatformVersion: 0
+ProOnly: True
+Author: Timur Duehr
+ShortDescription: Adds Ruby scripting capabilities to Burp.
+EntryPoint: samples/bubystart.rb

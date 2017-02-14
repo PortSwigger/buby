@@ -3,7 +3,7 @@ ExtensionType: 3
 Name: Buby
 RepoName: buby
 ScreenVersion: 1.6.2
-SerialVersion: 2
+SerialVersion: 3
 MinPlatformVersion: 0
 ProOnly: True
 Author: Timur Duehr

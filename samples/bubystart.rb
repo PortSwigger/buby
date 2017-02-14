@@ -1,3 +1,3 @@
-$:.unshift File.join(File.dirname(Dir.glob(File.join(File.dirname(Java::JavaLang::System.getProperties['java.class.path'].split(File::PATH_SEPARATOR).grep(/burp.*\.jar/).first),"bapps",'**','bubystart.rb')).first),"lib")
+$:.unshift File.join(Dir.pwd, "lib")
 
 require 'buby/burp_extender'
